@@ -3,9 +3,9 @@
 PayBank is a modern banking UI landing page. 
 
 
-![FlavourFusion1](https://github.com/Mitali1417/PayBank/assets/95479508/0c29f3a5-1257-48d4-843f-2300ba8628c1)
 
-![FlavorFusion2](https://github.com/Mitali1417/PayBank/assets/95479508/adb560a9-b4cb-49e8-aa45-1e5a5c5a114e)
+![Paybank1](https://github.com/Mitali1417/PayBank/assets/95479508/aa61cdbd-9c0b-41b9-975a-75b1b0f67d35)
+![Paybank2](https://github.com/Mitali1417/PayBank/assets/95479508/9c9cc971-1e6f-44ef-a789-3b99ae2b68e8)
 
 
 ## Installation
